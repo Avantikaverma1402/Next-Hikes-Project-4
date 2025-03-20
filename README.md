@@ -69,7 +69,7 @@ The trained model can be deployed in a **web-based UI**, allowing users to input
 ✔ **AI-based camera enhancements don’t directly influence price** 🤖  
 
 📌 **The Best Performing Model:**  
-🏆 **Random Forest Regressor** – Achieved the best RMSE and R² score, making it the most reliable model for price prediction.  
+🏆 **Gradient Boosting Regressor** – Achieved the best RMSE and R² score, making it the most reliable model for price prediction.  
 
 ---
 
